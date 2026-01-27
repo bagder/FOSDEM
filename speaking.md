@@ -26,7 +26,7 @@ Look at the audience, not your slides. No one wants to see the back of your head
 ## Post-talk
 
 5 minutes or so before the next talk starts, many people will leave your room
-and many others will enter the room. This potentially very load and noisy
+and many others will enter the room. This potentially very loud and noisy
 period does not function well for taking questions
 
 The video team sends an email with questions and require confirmation from the
