@@ -24,6 +24,7 @@ If there are details missing:
 - [shoes](shoes.md)
 - [wear](wear.md)
 - [hardware](hardware.md)
+- [money](money.md)
 
 ## Consuming
 
