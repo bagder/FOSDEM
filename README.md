@@ -42,7 +42,7 @@ If there are details missing:
 ## Apps
 
 - Talks
-- maps
+- [maps](maps.md)
 
 ## Social
 
