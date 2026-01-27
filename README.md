@@ -7,6 +7,13 @@ come with an open heart.
 
  / Jan Wildeboer
 
+## Missing info?
+
+If there are details missing:
+
+ - Add it yourself and submit a pull-request with the update!
+ - Submit an issue where you ask the question or explain what is lacking!
+
 ## Brussels
 
 - [hotels](hotels.md)
