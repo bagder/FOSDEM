@@ -17,7 +17,7 @@ If there are details missing:
 ## Brussels
 
 - [hotels](hotels.md)
-- transportation
+- [transportation](transportation.md)
 
 ## Carrying
 
