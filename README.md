@@ -7,6 +7,10 @@ come with an open heart.
 
  / Jan Wildeboer
 
+## Lodging
+
+- [hotels](hotels.md)
+
 ## Carrying
 
 - [shoes](shoes.md)
