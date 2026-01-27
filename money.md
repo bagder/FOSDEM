@@ -7,5 +7,4 @@ works fine also for small amounts like a single coffee.
 
 Cash is usually also accepted.
 
-Getting cash onsite can be complicated, the onsite ATM is often empty when
-needed.
+Getting cash onsite can be complicated as there is no ATM. 
