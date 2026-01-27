@@ -17,7 +17,7 @@ If there are details missing:
 ## Brussels
 
 - [hotels](hotels.md)
-- transportation
+- [transportation](transportation.md)
 
 ## Carrying
 
@@ -38,10 +38,10 @@ If there are details missing:
 - [speaking](speaking.md)
 - [finding talks](how-to-find.md)
 - attending a talk
+- [schedule apps](apps.md)
 
-## Apps
+## Finding your way at ULB
 
-- Talks
 - [maps](maps.md)
 
 ## Social
