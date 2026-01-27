@@ -1,7 +1,6 @@
 # Maps of the event area
-
-![](https://fosdem.org/2026/assets/campusmap-28cd8375b3f69b84e605f3fd1963ec6ed0bec96eaa5ce1f9773aee867be6622e.png)
 Simple overview map linked from [FOSDEM/transportation](https://fosdem.org/2026/practical/transportation/) 
+![](https://fosdem.org/2026/assets/campusmap-28cd8375b3f69b84e605f3fd1963ec6ed0bec96eaa5ce1f9773aee867be6622e.png)
 
 [Interactive FOSDEM map - nav.fosdem.org](https://nav.fosdem.org/@1,390.7,242.58,0.79)
 
