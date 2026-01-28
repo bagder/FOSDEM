@@ -10,7 +10,7 @@ Assume HDMI 16:9 if nothing else is said.
 
 ## Before talk
 
-Some rooms are very crowded and even for a speaker it migth take a little time
+Some rooms are very crowded and even for a speaker it might take a little time
 to get into the room. Prepare for this and be on time!
 
 ## Presenting
