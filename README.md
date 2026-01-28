@@ -37,8 +37,7 @@ If there are details missing:
 ## Talks
 
 - [speaking](speaking.md)
-- [finding talks](how-to-find.md)
-- attending a talk
+- [attend](attend.md)
 - [schedule apps](apps.md)
 
 ## Finding your way at ULB
