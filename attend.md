@@ -32,4 +32,4 @@ have a few different options:
  - Go sit somewhere else and watch the talk live-streamed
  - Find another talk to attend, in another room
  - Chat with your friends, get yourself another drink or line up for fries
-
+ - Go visit some [stands](https://fosdem.org/2026/stands/)
