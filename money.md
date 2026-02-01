@@ -8,3 +8,6 @@ works fine also for small amounts like a single coffee.
 Cash is usually also accepted.
 
 Getting cash onsite can be complicated as there is no ATM. 
+Closest ATMs:
+- Chau. de Boondael 454 - `50.816446, 4.389404` (indoor)
+- Av. de la Couronne 449 - `50.816185, 4.390898` (indoor)
