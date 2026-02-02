@@ -46,7 +46,8 @@ If there are details missing:
 
 ## Social
 
-- how to meet up
+- [vibe](vibe.md)
+- [how to meet up](meet.md)
 
 ## Getting there and away
 
