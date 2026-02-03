@@ -26,8 +26,10 @@ to get into the room to enjoy this special talk!
 
 ## If FULL
 
-If the dreaded **FULL** sign hangs on the door, you must not enter. You then
-have a few different options:
+If the dreaded **FULL** sign hangs on the door, you must not enter. Please
+respect the room volunteers that manage the room.
+
+You then have a few different options:
 
  - Go sit somewhere else and watch the talk live-streamed
  - Find another talk to attend, in another room

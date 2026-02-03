@@ -1,3 +1,3 @@
 # Hotels
 
-Live near where a bus starts the morning journey.
+Live near where a bus or tram starts the morning journey.
