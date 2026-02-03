@@ -12,4 +12,4 @@ so "outside the door to..." is not specific enough. Also, some of the
 cafeterias are big, so while saying "Chez Theo" is correct, it still takes
 quite some walking around and looking.
 
-So yes, there is a lack of a working coordination system at FOSDEM.
+Use [nav.fosdem.org](https://nav.fosdem.org) to help with this!
