@@ -18,6 +18,7 @@ If there are details missing:
 
 - [hotels](hotels.md)
 - [transportation](transportation.md)
+- [weather](weather.md)
 
 ## Carrying
 
