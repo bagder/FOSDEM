@@ -1,5 +1,12 @@
 # Speaking
 
+## Dev Rooms
+
+The dev rooms are, like most things FOSDEM, operated by volunteers. They propose a
+devroom, publish a call for papers and then manage the room during the day. Please
+respect them and say thank you for their work, as they are a large part of what
+makes your FOSDEM experience great.
+
 ## Equipment
 
 The room host should let you know in advance what the requirements are for speaking.
@@ -17,11 +24,12 @@ to get into the room. Prepare for this and be on time!
 
 No one wants to see you fiddling around with resolution settings for 5 minutes. Make sure you have your slides on a USB stick or easily accessible online and be prepared to use the room's laptop.
 
-Some rooms do not have audio from laptops. Check in advance whether you can play sound from your laptop.
-
-Hold the microphone like you are eating an ice-cream. Keep it close to your mouth and speak into it.
-
-Look at the audience, not your slides. No one wants to see the back of your head. Face the audience at all times.
+- Some rooms do not have audio from laptops. Check in advance whether you can play sound from your laptop.
+- Hold the microphone like you are eating an ice-cream. Keep it close to your mouth and speak into it.
+- Look at the audience, not your slides. No one wants to see the back of your head. Face the audience at all times.
+- If there's a video camera in the room, you're being recorded. Make sure you notice the
+  markings on the floow indicating the area where you will be recorded (or how you can
+  escape...)
 
 ## Post-talk
 

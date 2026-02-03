@@ -12,4 +12,5 @@ Each room is managed independently so expect calendar collisions and even
 sometimes a ten minute walk to get to the next presentation.
 
 FOSDEM is often crowded. Thousands of similar-minded people with an interest
-in Open Source.
+in Open Source will join you in this weekend celebration. Be excellent, be
+happy and enjoy being with your peers.
