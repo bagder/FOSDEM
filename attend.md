@@ -20,7 +20,7 @@ Make your best to enter and leave rooms *between* the talks. The process of
 getting up and leaving is usually noisy and thus it disturbs the entire
 audience and the presenter if done mid-presentation.
 
-Always, always use every single seat in the room. Neave leave single
+Always, always use every single seat in the room. Never leave single
 unoccupied seats next to you, as that seriously hampers the ability for others
 to get into the room to enjoy this special talk!
 
