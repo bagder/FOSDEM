@@ -9,7 +9,9 @@ a long walk apart.
 
 The smaller rooms (<= 200 seats) often get full and then you cannot enter. An
 old trick has been to enter the room one or two talks *before* the talk you
-actually want to see, to increase your chances of getting in.
+actually want to see, to increase your chances of getting in. This of course
+contributes to the problem, please only do this if you actually plan to pay
+attention to those earlier talks.
 
 In some rooms, people get there in the morning and mostly camp around there
 for the rest of the day.
